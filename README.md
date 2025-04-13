@@ -29,7 +29,7 @@ This project analyzes heart disease data and compares the performance of several
 /heart-failure-prediction
 │
 ├── heart failure prediction.ipynb → Complete analysis, modeling, and results
-├── heart.csv → Dataset file (not included here)
+├── heart.csv → Dataset file 
 └── README.md → This documentation
 
 🛠️ Libraries Used
